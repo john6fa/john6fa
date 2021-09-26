@@ -1,8 +1,8 @@
 ### Hi there, my name is John 👋
 
-- 🔭  I’m currently a Software Engineering Student at Hack Reactor
-- 🌱  I’m currently learning Javascript and React
-- 👯  I’m looking to collaborate on web development and healthcare projects
+- 🔭  I am currently a Software Engineering Student at Hack Reactor
+- 🌱  I am currently learning Javascript and React
+- 👯  I am looking to collaborate on web development projects
 - 💬  Ask me about molecular and cellular biology, environmental economics, and React
 - 📫  How to reach me: john6fa@gmail.com
 -  ⚡  Fun fact: I play the piano, viola, guitar and have sung in a chorus and a capella. I also have danced on 4 teams!

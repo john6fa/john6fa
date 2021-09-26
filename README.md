@@ -5,7 +5,7 @@
 - 👯  I am looking to collaborate on web development projects
 - 💬  Ask me about molecular and cellular biology, environmental economics, and React
 - 📫  How to reach me: john6fa@gmail.com
--  ⚡  Fun fact: I play the piano, viola, guitar and have sung in a chorus and a capella. I also have danced on 4 teams!
+-  ⚡  Fun fact: I play the piano, viola, guitar and sang in a chorus and a capella. I also have danced on 4 urban/hip-hop teams!
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnfa/)](https://www.linkedin.com/in/johnfa/)
 

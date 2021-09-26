@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on web development and healthcare projects
 - 💬 Ask me about healthcare, economics, and computer science
 - 📫 How to reach me: john6fa@gmail.com
-- ⚡ Fun fact: I play the piano, viola, and guitar and have sung in an chorus and acapella. I also have danced on 4 teams!
+- ⚡ Fun fact: I play the piano, viola, guitar and have sung in a chorus and a capella. I also have danced on 4 teams!
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnfa/)](https://www.linkedin.com/in/johnfa/)
 

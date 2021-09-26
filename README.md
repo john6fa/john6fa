@@ -9,7 +9,7 @@
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnfa/)](https://www.linkedin.com/in/johnfa/)
 
-I am an aspiring full-stack software engineer with a passion for healthcare, technology, and business. I love the creative problem-solving process and the design and implementation of effective and efficient code.
+I am a full-stack software engineer with a passion for healthcare, technology, and business. I love the creative problem-solving process and the design and implementation of effective and efficient code.
 
 As a learner who is detail-oriented and self-motivated, my passion stems from the ability to improve efficiency in countless operations and most importantly, develop better practices for controlling the safety and efficacy of life-changing technology.
 

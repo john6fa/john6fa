@@ -1,6 +1,6 @@
 ### Hi there, my name is John 👋
 
-- 🔭  I am currently a Software Engineering Student at Hack Reactor
+- 🔭  I recently graduated from Hack Reactor's Advanced Software Immersive Program
 - 🌱  I am currently learning Javascript and React
 - 👯  I am looking to collaborate on web development projects
 - 💬  Ask me about molecular and cellular biology, environmental economics, and React
